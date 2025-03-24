@@ -1,0 +1,22 @@
+/* Additional styles for the Echo Test Site */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #1E90FF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: #0078E7;
+}
+
+.highlight {
+    background-color: #ffffcc;
+    padding: 10px;
+    border-left: 3px solid #ffcc00;
+    margin: 15px 0;
+}
